@@ -1,0 +1,17 @@
+/Users/thanawatgulati/Desktop/_workspace/APIdotnet/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/thanawatgulati/Desktop/_workspace/APIdotnet/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/thanawatgulati/Desktop/_workspace/APIdotnet/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/thanawatgulati/Desktop/_workspace/APIdotnet/bin/Debug/netcoreapp3.1/APIdotnet.deps.json
+/Users/thanawatgulati/Desktop/_workspace/APIdotnet/bin/Debug/netcoreapp3.1/APIdotnet.runtimeconfig.json
+/Users/thanawatgulati/Desktop/_workspace/APIdotnet/bin/Debug/netcoreapp3.1/APIdotnet.runtimeconfig.dev.json
+/Users/thanawatgulati/Desktop/_workspace/APIdotnet/bin/Debug/netcoreapp3.1/APIdotnet.dll
+/Users/thanawatgulati/Desktop/_workspace/APIdotnet/bin/Debug/netcoreapp3.1/APIdotnet.pdb
+/Users/thanawatgulati/Desktop/_workspace/APIdotnet/obj/Debug/netcoreapp3.1/APIdotnet.csprojAssemblyReference.cache
+/Users/thanawatgulati/Desktop/_workspace/APIdotnet/obj/Debug/netcoreapp3.1/APIdotnet.MvcApplicationPartsAssemblyInfo.cache
+/Users/thanawatgulati/Desktop/_workspace/APIdotnet/obj/Debug/netcoreapp3.1/APIdotnet.AssemblyInfoInputs.cache
+/Users/thanawatgulati/Desktop/_workspace/APIdotnet/obj/Debug/netcoreapp3.1/APIdotnet.AssemblyInfo.cs
+/Users/thanawatgulati/Desktop/_workspace/APIdotnet/obj/Debug/netcoreapp3.1/APIdotnet.RazorTargetAssemblyInfo.cache
+/Users/thanawatgulati/Desktop/_workspace/APIdotnet/obj/Debug/netcoreapp3.1/staticwebassets/APIdotnet.StaticWebAssets.Manifest.cache
+/Users/thanawatgulati/Desktop/_workspace/APIdotnet/obj/Debug/netcoreapp3.1/staticwebassets/APIdotnet.StaticWebAssets.xml
+/Users/thanawatgulati/Desktop/_workspace/APIdotnet/obj/Debug/netcoreapp3.1/APIdotnet.dll
+/Users/thanawatgulati/Desktop/_workspace/APIdotnet/obj/Debug/netcoreapp3.1/APIdotnet.pdb
